@@ -1,5 +1,6 @@
 # Assignment1
-Wiki For Lab1
+Wiki For Lab1 : 
+https://github.com/SSDeepthiKatta/Assignment1/wiki/Assignment1
 # Tasks :
 1. Create UML Diagram for Chat Application
 2. Create 3 Milestone, 5 Issues and show Analytical Graphs
