@@ -1,4 +1,4 @@
-# Assignment1
+# LAB Assignment1
 Wiki For Lab1 : 
 https://github.com/SSDeepthiKatta/Assignment1/wiki/Assignment1
 # Tasks :
